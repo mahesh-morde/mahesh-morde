@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm ... from ....Pune<br><br>- 🔭 I’m working as Associate @Amazon<br>- 📚 I'm a Full Stack Developer<br>- ⚡ In my free time I love to explore 0101<br>- 💬 Ask me about JAVA, HTML, CSS<br>- 📫 reach me at maheshmorde2511@gmail.com</p>
+<p align="left">I'm ... from ....Pune<br><br>- 📚 I'm a Full Stack Developer<br>- ⚡ In my free time I love to explore 0101<br>- 💬 Ask me about JAVA, HTML, CSS<br>- 📫 reach me at maheshmorde2511@gmail.com</p>
 
 ###
 
