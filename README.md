@@ -1,63 +1,137 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
-</div>
+# 👋 Hi, I'm Mahesh Morde
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=250&section=header&text=Mahesh%20Morde&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20|%20Full%20Stack%20Developer%20|%20AI%20Builder"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Angular+Developer;Full+Stack+Developer;AI-Assisted+Developer;Hackathon+Winner;Building+Enterprise+Applications"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mahesh-morde" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <a href="https://www.instagram.com/mahiiiiii._.__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="mailto:maheshmorde2511@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  <a href="https://github.com/mahesh-morde">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mahesh-morde.mahesh-morde&"  />
-</div>
+# 🚀 About Me
 
-###
+### 🧑‍💻 Personal Profile
+* **Name:** Mahesh Morde
+* **Role:** Software Engineer
+* **Location:** Pune, India
+* **Experience:** 4.9+ Years
 
-<h1 align="center">hey there 👋</h1>
+I specialize in building modular, highly interactive enterprise web platforms and single-page applications. By integrating bleeding-edge AI workflows into my development architecture, I deliver reliable, high-performance features at rapid velocity.
 
-###
+### 🛠️ Core Expertise
+* **Frontend:** Angular, TypeScript, JavaScript, RxJS, NgRx, Bootstrap
+* **Backend:** Python, Django, REST APIs
+* **Cloud & Infra:** AWS, Docker, CI/CD Pipelines
+* **AI Engineering:** Claude, GitHub Copilot, Cursor, Amazon Q, Augment Code
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## 💼 Experience
 
-<p align="left">I'm ... from ....Pune<br><br>- 📚 I'm a Full Stack Developer<br>- ⚡ In my free time I love to explore 0101<br>- 💬 Ask me about JAVA, HTML, CSS<br>- 📫 reach me at maheshmorde2511@gmail.com</p>
+Currently working as a **Software Engineer** at **Platform Commons Foundation** building scalable multi-tenant platforms for organizations including:
 
-###
+* 🏛️ Government of India
+* 📊 NITI Aayog
+* 🏦 SBI Foundation
+* 💊 Lupin
+* 🎓 Gandhi Fellowship
+* 🤝 Make A Difference
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🏆 Achievements & Trophies
 
-<div align="left">
-  <img src="https://console.kamatera.com/assets/images/os/os_django.png" height="40" width="52" alt="amazonwebservices logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="52" alt="angularjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
-</div>
+* 🎖️ **ET AutoTech Hackathon '26** — 🥈 1st Runner Up
+* 🤖 **Microsoft Copilot Hackathon** — 🥉 All India Rank 3
+* 🎓 **IT Vedant Competition** — 🏅 All India Rank 2
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🛠 Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,python,django,html,css,bootstrap,mysql,postgres,mongodb,aws,docker,git,github,gitlab,vscode" alt="My Skills"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mahesh-morde&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+## 🤖 AI Toolbox
 
-###
+* 🧠 ChatGPT
+* 💻 Claude
+* 🚀 GitHub Copilot
+* 🔍 Cursor
+* 💡 Amazon Q
+* ⚡ Augment Code
+
+---
+
+## 📊 GitHub Ecosystem Overview
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-azure?style=for-the-badge" alt="Maintained"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Open%20Source-Love-orange?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="Open Source"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahesh-morde&theme=tokyonight" alt="GitHub Streak" width="100%" />
+</p>
+
+## 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahesh-morde&theme=tokyo-night" width="100%" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+* **🚀 ComplyOS** — AI-powered compliance platform
+* **💰 NextGen Finance** — AI financial copilot
+* **🏦 SBI Sakha AI** — Intelligent banking assistant
+* **📊 Commons Analytics Library** — Angular analytics & dashboard builder
+
+---
+
+## 🎯 Current Focus
+
+* 🤖 Agentic AI
+* 🌐 MCP (Model Context Protocol)
+* 🕸️ LangGraph
+* 🅰️ Angular Evolution
+* 🏗️ System Design
+* 🏢 Enterprise SaaS
+* 🔓 Open Source
+
+---
+
+## 📫 Contact
+
+* 📧 maheshmorde2511@gmail.com
+* 💼 [LinkedIn Profile](https://www.linkedin.com/in/mahesh-morde)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+<p align="center">
+  ⭐ If you like my work, consider starring my repositories!
+</p>
